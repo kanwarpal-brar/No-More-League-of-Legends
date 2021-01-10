@@ -9,6 +9,7 @@ If the script finds these applications, it force closes them using the OS module
 The intent is that the script starts on boot and is always running in the background to sneakily prevent the user from launching League of Legends, and ensuring that if they do, then it won't be open for very long.
 
 I had planned additional features which would be responsible for:
-* Launching the script on boot
-* Moving the location of the script on every launch so it cannot easily be found
+* Launching the script on boot.
+* Moving the location of the script on every launch so it cannot easily be found.
+
 But for some reason my the intended demographic (a.k.a. my friends) decided that they didn't want the application, so development was halted.
