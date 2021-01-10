@@ -12,4 +12,4 @@ I had planned additional features which would be responsible for:
 * Launching the script on boot.
 * Moving the location of the script on every launch so it cannot easily be found.
 
-But for some reason my the intended demographic (a.k.a. my friends) decided that they didn't want the application, so development was halted.
+But for some reason the intended demographic (a.k.a. my friends) decided that they didn't want the application, so development was halted.
