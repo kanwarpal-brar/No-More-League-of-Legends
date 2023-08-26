@@ -1,6 +1,7 @@
+<!--start-->
 # No-More-League-of-Legends
 Video games can be addictive. Sometimes, a little too addictive. This is exactly what two of my friends faced with the hit MOBA: [League of Legends](https://na.leagueoflegends.com/en-us/). I took it upon myself to write a Python script to thwart their attempts at procrastination.
-
+<!--end-->
 ## How it Works
 The application is quite simple. Using Python's builtin OS, Threading, and Time modules, as well as [psutil](https://github.com/giampaolo/psutil), upon running __main__.py a new monitoring thread is started which periodically checks if two specific programs are running: LeagueClient.exe, and RiotClientServices.exe.
 
